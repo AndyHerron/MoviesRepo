@@ -15,5 +15,3 @@ Clean and merge several data files.
 ![movies query](https://github.com/AndyHerron/MoviesRepo/blob/main/Resources/movies_query.png)
 
 ![ratings query](https://github.com/AndyHerron/MoviesRepo/blob/main/Resources/ratings_query.png)
-
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
